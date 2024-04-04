@@ -26,6 +26,16 @@
     cursor: auto;
     padding: 25px 30px;
     border-radius: 10px;
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    background: var(--color-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-primary);
+    border-radius: 10px;
 }
 
 .content h2 {
