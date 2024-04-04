@@ -1,0 +1,21 @@
+@import '../../vars.css';
+
+.pre {
+    font-family: monospace;
+    /* Uses monospace font */
+    white-space: pre;
+    /* Preserves whitespace */
+    font-size: 10px;
+    /* Sets font size to 10 pixels */
+    margin: 0;
+    /* Removes default margins */
+    flex: 1;
+    /* Makes the output element fill the available space */
+    display: flex;
+    /* Uses flexbox layout */
+    align-items: center;
+    /* Centers content vertically */
+    justify-content: center;
+    /* Centers content horizontally */
+    color: var(--color-text);
+}

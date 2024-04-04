@@ -1,0 +1,102 @@
+[
+    {
+        "title": "C",
+        "imageSrc": "skills/C.svg"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/C++.svg"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/Java.svg"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/Python.svg"
+    },
+    {
+        "title": "Swift",
+        "imageSrc": "skills/swift-og.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/JavaScript-logo.png"
+    },
+    {
+        "title": "Typescript",
+        "imageSrc": "skills/ts-logo-128.svg"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Django",
+        "imageSrc": "skills/dj.svg"
+    },
+    {
+        "title": "Vapor",
+        "imageSrc": "skills/vapor.jpg"
+    },
+    {
+        "title": "SwiftUI",
+        "imageSrc": "skills/swiftui.png"
+    },
+    {
+        "title": "JavaFx",
+        "imageSrc": "skills/javafx.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Vue",
+        "imageSrc": "skills/Vue.svg"
+    },
+    {
+        "title": "Node.js",
+        "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "Express.js",
+        "imageSrc": "skills/expressjs-icon.svg"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/postgresql.svg"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker.svg"
+    },
+    {
+        "title": "Kubernetes",
+        "imageSrc": "skills/kub.svg"
+    },
+    {
+        "title": "Arduino",
+        "imageSrc": "skills/arduino.png"
+    },
+    {
+        "title": "Verilog",
+        "imageSrc": "skills/verilog.svg"
+    }
+]

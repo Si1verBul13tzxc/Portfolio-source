@@ -1,0 +1,17 @@
+@import '../../vars.css';
+
+.selector {
+    background-color: var(--color-bg);
+    border-style: none;
+    font-size: 15px;
+    color: var(--color-text);
+    margin-left: -10px;
+    padding-top: 4px;
+    font: var(--roboto);
+}
+
+@media screen and (max-width: 830px) {
+    .selector {
+        background-color: transparent;
+    }
+}

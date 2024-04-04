@@ -1,0 +1,125 @@
+[
+    {
+        "title": "Risc 游戏",
+        "imageSrc": "projects/project.png",
+        "description": "类似Risk的策略棋盘游戏",
+        "details": [
+            "• 开发了一个桌面策略棋盘游戏，包括用户友好的GUI(JavaFX)、支持多个游戏的强大服务器、游戏内聊天室 等功能。该游戏允许2-4名玩家移动、攻击、升级他们的单位，并在彼此之间建立联盟。",
+            "• 应用了 S.O.L.I.D 设计原则和Java多态来简化和精炼代码。并且还应同了 Java 异步特性，如Runnable、 LinkedBlockingQueue等。",
+            "• 培养了软件团队合作的全面技能集(任务分解、解决冲突、Git)，以及软件演进式开发(CI/CD pipeline、 Docker、自动回归测试、编写能够适应变化的代码)。"
+        ],
+        "skills": [
+            "Java",
+            "JavaFX",
+            "设计原理",
+            "软件工程"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/ECE-651-RISC-GAME"
+    },
+    {
+        "title": "\"杜克日历\"移动应用",
+        "imageSrc": "projects/project.png",
+        "description": "用于向杜克大学学生通知校园活动的移动应用",
+        "details": [
+            "• 开发了一个iOS移动应用，用于通知杜克大学的学生各种校园活动，并允许学生通过评论分享他们的想法。",
+            "• 使用iOS 17 SwiftUI新的API实现了用户友好的界面，例如滚动视图轮播效果和动画。",
+            "• 使用Vapor实现了一个后端服务器，定期从学校数据库获取最新的事件数据，并支持RESTful API终端点，用于更新用户的事件和评论。"
+        ],
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "Vapor",
+            "REST API"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/DukeCalendar"
+    },
+    {
+        "title": "缓存 HTTP 代理服务器",
+        "imageSrc": "projects/project.png",
+        "description": "遵循 RFC7234 规范的 HTTP 代理服务器",
+        "details": [
+            "• 设计并实现了一个符合RFC7234规范的代理服务器，支持 GET、POST 和 CONNECT 方法。",
+            "• 使用 C++11 并应用了 RAII 技术来进行内存和资源管理，并实现了强异常安全保证。",
+            "• 设计了一个 LRU 缓存来存储 HTTP 响应，以减少延迟并优化资源使用。"
+        ],
+        "skills": [
+            "C++",
+            "Socket API",
+            "HTTP",
+            "多线程"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/ECE568-HTTP-Proxy"
+    },
+    {
+        "title": "Mini-UPS 网站",
+        "imageSrc": "projects/project.png",
+        "description": "模拟真实世界的包裹配送服务",
+        "details": [
+            "• 构建了一个类似 UPS 的网站，通过自设计的协议与 Mini-Amazon 网站和“world”服务器进行交互，模拟真 实世界的包裹投递服务。",
+            "• 使用包含序列号和 ACK 的协议进行重传(模拟 TCP 协议)。",
+            "• 在后端服务器中实现了atomic的 Postgres 查询，并使用 Django 框架构建了前端网站。"
+        ],
+        "skills": [
+            "C++",
+            "Django",
+            "Docker",
+            "PostgreSQL",
+            "Google Protobuf"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/Mini-UPS"
+    },
+    {
+        "title": "LEFT 文件共享",
+        "imageSrc": "projects/project.png",
+        "description": "大型高效灵活可靠的文件同步应用",
+        "details": [
+            "• 设计了一个文件共享应用程序，使多个主机之间可以进行大文件同步，支持部分更新、加密、压缩、错误恢复和中断恢复",
+            "• 获得了关于p2p架构、多线程设计和套接字编程的扎实经验"
+        ],
+        "skills": [
+            "Python",
+            "多线程",
+            "Socket API"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/LEFT"
+    },
+    {
+        "title": "半自动标注工具",
+        "imageSrc": "projects/project.png",
+        "description": "用于多摄像机行人数据集标注",
+        "details": [
+            "• 开发了一个用于多摄像头数据集标注的应用程序，与手动标注相比，大大提高了效率和准确性",
+            "• 应用了 R-CNN 技术来检测行人的边界框。提高了拥挤行人场景的便利性和准确性",
+            "• 使用 Python PyQt 框架构建了具有用户友好界面的桌面 GUI"
+        ],
+        "skills": [
+            "Python",
+            "Fast R-CNN",
+            "PyQt"
+        ],
+        "demo": "unavailable.html",
+        "source": "unavailable.html"
+    },
+    {
+        "title": "此网站",
+        "imageSrc": "projects/thisweb.png",
+        "description": "用来介绍我自己",
+        "details": [
+            "• 使用 React 的 props 和 hooks 创建不同的组件并管理组件状态",
+            "• 应用 CSS 模块调整网站样式",
+            "• 使用 i18next 支持网站同时提供英文和中文版本"
+        ],
+        "skills": [
+            "React",
+            "JavaScript",
+            "CSS"
+        ],
+        "demo": "#portfolio",
+        "source": "unavailable.html"
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "title": "Risc Game",
+        "imageSrc": "projects/project.png",
+        "description": "A Risk-like strategy board game",
+        "details": [
+            "• Built a desktop strategy board game, including user-friendly GUI, a powerful server supporting multiple games, in-game chatting room, etc. It allows 2-4 players to move, attack, upgrade their units and forms alliance between each other",
+            "• Applied S.O.L.I.D design principles and many design patterns using Java, and also practiced with Java asynchronous features like Runnable, LinkedBlockingQueue, etc",
+            "• Nurtured a comprehensive skill set on software teamwork (Tasks breakdown, Solving conflicts, Git) and evolutionary software development(CI/CD pipeline, Docker, Automated regression test, Writing code that adaptable to change)"
+        ],
+        "skills": [
+            "Java",
+            "JavaFX",
+            "Design Principles",
+            "Software Engineering"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/ECE-651-RISC-GAME"
+    },
+    {
+        "title": "Duke Calendar Mobile App",
+        "imageSrc": "projects/project.png",
+        "description": "A mobile app to inform Duke students with campus events",
+        "details": [
+            "• Built an iOS mobile app to inform Duke students with campus events of various kinds, and it allows students to share their thoughts through comments",
+            "• Designed and implemented a user-friendly interface with new iOS 17 SwiftUI features, such as scroll view carousel effects and animations",
+            "• Implemented a back-end server using Vapor, which periodically pulls newest events data from school database, and supports RESTful API endpoints for updating the user with events and comments"
+        ],
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "Vapor",
+            "REST API"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/DukeCalendar"
+    },
+    {
+        "title": "Caching HTTP Proxy Server",
+        "imageSrc": "projects/project.png",
+        "description": "A HTTP Proxy Server following RFC7234 specification",
+        "details": [
+            "• Designed and implemented a Proxy Server that functions with GET, POST and CONNECT following the rules of RFC7234 specification",
+            "• Used C++11 to implement RAII technique for memory and resource management and achieved strong exception safety guarantee",
+            "• Designed a LRU cache to store HTTP responses for reduced latency and optimized resource usage"
+        ],
+        "skills": [
+            "C++",
+            "Socket API",
+            "HTTP",
+            "Multi-threading"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/ECE568-HTTP-Proxy"
+    },
+    {
+        "title": "Mini-UPS website",
+        "imageSrc": "projects/project.png",
+        "description": "Model real world package delivery services",
+        "details": [
+            "• Built an UPS-like website that interacts with Mini-Amazon website and ”world” server using self-designed protocols to model real world package delivery services",
+            "• Using protocols containing sequence numbers and ACKs for retransmission (model TCP protocol)",
+            "• Implemented atomic Postgres queries in the back-end server and using Django framework to build the front-end website"
+        ],
+        "skills": [
+            "C++",
+            "Django",
+            "Docker",
+            "PostgreSQL",
+            "Google Protobuf"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/Mini-UPS"
+    },
+    {
+        "title": "LEFT Files Sharing",
+        "imageSrc": "projects/project.png",
+        "description": "Large Efficient Flexible and Trusty file synchronization App",
+        "details": [
+            "• Designed a file sharing application, which enabled large file synchronization between multiple hosts with partially updating, encryption, compression, error recovery, and resumption from interruption",
+            "• Gained solid experience about p2p architecture, multithreading design and socket programming"
+        ],
+        "skills": [
+            "Python",
+            "Multi-threading",
+            "Socket API"
+        ],
+        "demo": "unavailable.html",
+        "source": "https://github.com/Si1verBul13tzxc/LEFT"
+    },
+    {
+        "title": "Semi-automatic Annotation Tool",
+        "imageSrc": "projects/project.png",
+        "description": "For multi-camera pedestrian datasets labelling",
+        "details": [
+            "• Developed an application for multi-camera dataset labeling which largely increased the efficiency and accuracy compared to manual labeling",
+            "• Applied R-CNN to detect the masks and bounding boxes of pedestrians. Improved convenience and accuracy for crowded pedestrian scenarios",
+            "• Used Python PyQt framework to build the desktop GUI with a user-friendly interface"
+        ],
+        "skills": [
+            "Python",
+            "Fast R-CNN",
+            "PyQt"
+        ],
+        "demo": "unavailable.html",
+        "source": "unavailable.html"
+    },
+    {
+        "title": "This Website",
+        "imageSrc": "projects/thisweb.png",
+        "description": "To introduce myself",
+        "details": [
+            "• Used React props and hooks to create different components and manage component states",
+            "• Applied CSS modules to adjust website styles",
+            "• Use i18next to support website in both English and Chinese"
+        ],
+        "skills": [
+            "React",
+            "JavaScript",
+            "CSS"
+        ],
+        "demo": "#portfolio",
+        "source": "unavailable.html"
+    }
+]
